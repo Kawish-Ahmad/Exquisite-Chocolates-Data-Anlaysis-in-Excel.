@@ -1,4 +1,4 @@
-Exquisite Chocolates – A hypothetical chocolate company. (Excel)
+# Exquisite Chocolates – A hypothetical chocolate company. (Excel)
 
 Did quick statistics and Exploratory data analysis.
 
